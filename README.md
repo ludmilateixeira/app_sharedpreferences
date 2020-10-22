@@ -14,5 +14,6 @@ O app agora salva automaticamente (persiste) todo o conteúdo da lista de compra
 <li><b>Controller</b>: Contendo a classe Controlle, que controla o fluxo dos dados, possuindo as funções de insert, update e delete (CRUD);</li>
 <li><b>Repository</b>: Contendo a classe Repository, onde ficam os métodos que envolvem o acesso direto ao banco de dados (o arquivo data.json nesse caso).</li>
 </ul> 
+<br/>
 O app possibilita a adição do item, com possibilidade de inserção do valor e da pessoa responsável pelo item, contudo, os campos não são obrigatórios, trazendo assim mais praticidade.
 Até mais!
