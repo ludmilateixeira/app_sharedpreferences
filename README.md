@@ -1,6 +1,6 @@
 # To Note and Share / Para Anotar e Compartilhar
 <p>Terceiro desenvolvimento de um app em Flutter/Dart.</p>
-<p><b>Vídeo: <a href="">Clique aqui!</a></b></p>
+<p><b>Vídeo: <a href="https://youtu.be/XFcIm1U5maE">Clique aqui!</a></b></p>
 
 ## Visão Geral
 <p align="justify">Uma extensão do app prévio <a href="https://github.com/ludmilateixeira/lista_app">"To Buy and Share / Para Comprar e Compartilhar"</a>, este app possui as mesmas funcionalidades de seu anterior, porém possui novas atualizações: 
